@@ -2,7 +2,7 @@ version : "3.8"
 services :
   web :
      container_name: prashant_app_container
-     image: prashantverma95/prashant-app:1.0
+     image:kanishk07051992/prashant-app:1.0
      ports :
          - "8000:8000"
      
